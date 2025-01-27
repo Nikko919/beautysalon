@@ -111,10 +111,10 @@
     padding: 16px 64px;
   }
 
-  .hero__img {
+  /* .hero__img {
     max-height: 575px;
     max-width: 930px;
-  }
+  } */
 }
 
 @media (min-width:1900px) {
@@ -142,7 +142,5 @@
     padding: 16px 64px;
   }
 
-  .hero__img {
-    max-height: 575px;
-  }
+
 }
