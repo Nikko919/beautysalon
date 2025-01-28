@@ -87,7 +87,6 @@
 }
 
 @media (min-width:1440px) {
-
   .hero__text-box {
     max-width: 400px;
     display: flex;

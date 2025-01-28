@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: Montserrat-Regular;
-  src: url(font/Montserrat-Regular.woff2);
+  src: url(../font/Montserrat-Regular.woff2);
 }
 
 @font-face {
@@ -22,5 +22,5 @@
 
 @font-face {
   font-family: Roboto-Regular;
-  src: url(font/Roboto-Regular.woff2);
+  src: url(../font/Roboto-Regular.woff2);
 }
