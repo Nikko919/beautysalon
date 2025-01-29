@@ -13,7 +13,8 @@
   display: none;
 }
 
-.hero__title {
+.hero__title,
+.title {
   font-family: var(--montm);
   font-size: 20px;
   font-weight: 500;
@@ -117,6 +118,13 @@
 }
 
 @media (min-width:1900px) {
+  .container {
+    max-width: 2060px;
+  }
+
+  .hero__inner {
+    margin: 0;
+  }
 
   .hero__text-box {
     max-width: 500px;
@@ -140,6 +148,7 @@
     font-size: 14px;
     padding: 16px 64px;
   }
+
 
 
 }

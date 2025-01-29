@@ -161,6 +161,9 @@
 }
 
 @media (min-width:1900px) {
+  .container {
+    max-width: 2060px;
+  }
 
   .header__wrapper {
     padding-inline: 0;
